@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto.
 - 🌱 I’m currently learning community management.
 - 💞️ I’m looking to collaborate on Crypto communities.
-- 📫 You can DM me.
+- 📫 You can DM me or comment my repositories.
 
 <!---
 zeynepkavak27/zeynepkavak27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
