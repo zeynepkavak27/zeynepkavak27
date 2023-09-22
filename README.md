@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeynepkavak27
-- 👀 I’m interested in crypto.
+- 👀 I’m interested in crypto and NFT's.
 - 🌱 I’m currently learning community management.
 - 💞️ I’m looking to collaborate on Crypto communities.
 - 📫 You can DM me or comment my repositories.
